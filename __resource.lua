@@ -531,8 +531,8 @@ ui_page 'html/ui.html'
 
 client_scripts {
     'cl_main.lua',
-    'menu.lua'
-
+    'menu.lua',
+    'config.lua'
 }
 
 server_script 'sv_main.lua'
