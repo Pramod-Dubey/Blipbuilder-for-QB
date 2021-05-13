@@ -13,4 +13,4 @@ BlipsBuilder is a dev tool to put some blips easily For Qbus Server
 - /blipsbuilder in chat to open the menu
 
 
-
+#just need to change the core in config.lua
